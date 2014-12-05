@@ -41,3 +41,5 @@ or register the Resources.
 
 If I use packages the /data REST call fails, but Swagger /api-docs REST call returns a correct string.
 If I use register all the REST calls succeed, but the Swaggter /api-docs REST call returns only the description for /base and not for /data.
+
+
